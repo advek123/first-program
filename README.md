@@ -1,3 +1,3 @@
 # first-program
 this is my first program
-I am excited to work
+I am excited to work on git
