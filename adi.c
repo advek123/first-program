@@ -1,5 +1,5 @@
 # include <stdio.h>
 void main()
 {
-    orintf("hello world\n");
+    printf("hello world\n");
 }
